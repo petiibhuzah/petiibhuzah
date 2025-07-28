@@ -1,22 +1,16 @@
 [![MasterHead](https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Peter Daniel Kilimba</h1>
-<h3 align="center">I am a Computer System Engineer with extensive experience in the computer software industry. Throughout my career, I have successfully worked with various programming languages such as Java, Laravel, Lumen, Flutter, and Scala, and have also gained expertise in web design and development. As a finalist in the Bachelor of Computer Engineering program at Dar es Salaam Institute of Technology, I have honed my skills in information technology. With over six years of experience in software development, I possess a unique combination of creativity, motivation, and strategic technical abilities. When working with clients, I consistently surpass their expectations and deliver exceptional results. Additionally, I can bridge the gap between business and technology, making me a valuable asset in coordinating the two aspects.</h3>
+<h3 align="center">I am a Computer System Engineer with extensive experience in the computer software industry. Throughout my career, I have successfully worked with various programming languages such as Java, Laravel, Lumen, Flutter, and Scala, and have also gained expertise in web design and development. As a finalist in the Bachelor of Computer Engineering program at Dar es Salaam Institute of Technology, I have honed my skills in information technology. With over eight years of experience in software development, I possess a unique combination of creativity, motivation, and strategic technical abilities. When working with clients, I consistently surpass their expectations and deliver exceptional results. Additionally, I can bridge the gap between business and technology, making me a valuable asset in coordinating the two aspects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petiibhuzah&label=Profile%20views&color=0e75b6&style=flat" alt="petiibhuzah" /> </p>
 
 <p align="left"> <a href="https://twitter.com/petiibhuzah" target="blank"><img src="https://img.shields.io/twitter/follow/petiibhuzah?logo=twitter&style=for-the-badge" alt="petiibhuzah" /></a> </p>
 
-- 🔭 I’m currently working on [SCHOOL BAG](https://sb.gas.ac.tz)
+- 🔭 I’m currently working on [MASWALIPESA GAMING APP](https://web.maswalipesa.com)
 
-- 🌱 I’m currently learning **Akka, Kafka, Ably, Temporal**
+- 🌱 I’m currently learning **LLM Programing**
 
-- 👯 I’m looking to collaborate on [MCRMS](https://mcrms.smai.site)
-
-- 🤝 I’m looking for help with [IAAS](https://ias.aisafrica.org)
-
-- 👨‍💻 All of my projects are available at [https://self-serve.turing.com/developer-profile/d1bddb9649694526c79769f14540b225a43cb52e9ddd/b72aa855-170f-44d2-8bb5-de451e86c581](https://self-serve.turing.com/developer-profile/d1bddb9649694526c79769f14540b225a43cb52e9ddd/b72aa855-170f-44d2-8bb5-de451e86c581)
-
-- 💬 Ask me about **Golang, Laravel, Flutter, Java**
+- 💬 Ask me about **Golang, Laravel, Flutter, Ably, Temporal, Kafka**
 
 - 📫 How to reach me **petiibhuzah@gmail.com**
 
